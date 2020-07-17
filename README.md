@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**EraldoCi/EraldoCi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![](https://img.shields.io/badge/LinkedIn-gustavoeraldo-blue)](https://www.linkedin.com/in/gustavoeraldo/)
 [![](https://img.shields.io/badge/Gmail-gustavosilva754%40gmail.com-red)](mailto:gustavosilva754@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-Gustavo_Eraldo-brightgreen)](https://www.hackerrank.com/gustavosilva754)
