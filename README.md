@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/LinkedIn-gustavoeraldo-blue)](https://www.linkedin.com/in/gustavoeraldo/)
-<!-- [![](https://img.shields.io/badge/Gmail-gustavosilva754%40gmail.com-red)](mailto:gustavosilva754@gmail.com) -->
 [![](https://img.shields.io/badge/HackerRank-Gustavo_Eraldo-brightgreen)](https://www.hackerrank.com/gustavosilva754)
 [![](https://img.shields.io/badge/CodeWars-Gustavo_Eraldo-red)](https://www.codewars.com/users/EraldoCi)
+<!-- [![](https://img.shields.io/badge/Gmail-gustavosilva754%40gmail.com-red)](mailto:gustavosilva754@gmail.com) -->
 
 <details>
   <summary> <b> Experience </b> </summary>
