@@ -10,9 +10,9 @@
 
 * I have worked with C/C++ for some of University [projects](https://github.com/EraldoCi/ENG/)
 
-* Also know a little bit of Python using in [IA projects](https://github.com/EraldoCi/ENG/tree/master/IA/Final%20Project) and some Web [Crawling](https://github.com/EraldoCi/web-crawler) (It's really simple actually)
+* Also know a little bit of Python using in [IA projects](https://github.com/EraldoCi/ENG/tree/master/IA/Final%20Project) and some Web [Crawling](https://github.com/EraldoCi/web-crawler)
 
-* Have used JavaScript, Node.js and React in few [projects](https://github.com/EraldoCi/ecoleta)
+* Have used JavaScript, Node.js and React in some [projects](https://github.com/EraldoCi/ecoleta)
 
 
 * I also know Assembly RISC to program MicroControlers or PICs (more familiar with [12F675](https://ww1.microchip.com/downloads/en/devicedoc/41190c.pdf) and [18F4550](https://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf)) used for diferent types of communication as [SPI](https://github.com/EraldoCi/ENG/tree/master/uControllers) or I2C and devices control, sensor reading etc.
@@ -28,7 +28,7 @@
 
 * JavaScript 
 
-* Algorithms, data struct and logic at Hackerrank & CodeWars (it's kind fun)
+* Algorithms, data struct and logic at Hackerrank & CodeWars (it's really fun)
 
 * MySQL, MongoDB
 
