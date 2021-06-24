@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 [![](https://img.shields.io/badge/LinkedIn-gustavoeraldo-blue)](https://www.linkedin.com/in/gustavoeraldo/)
 [![](https://img.shields.io/badge/HackerRank-Gustavo_Eraldo-brightgreen)](https://www.hackerrank.com/gustavosilva754)
